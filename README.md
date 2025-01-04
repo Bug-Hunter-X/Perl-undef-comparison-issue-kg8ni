@@ -1,0 +1,1 @@
+This repository contains a Perl script demonstrating a common error involving the comparison of undefined variables.  The `bug.pl` file shows the incorrect comparison, leading to unexpected behavior. The `bugSolution.pl` demonstrates the correct way to handle undefined values for accurate comparison.
